@@ -111,5 +111,3 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 ,HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,BSTV
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
