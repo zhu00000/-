@@ -109,27 +109,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-#EXTINF:-1 ,Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 ,Bloomberg TV Asia
-http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 ,Bloomberg TV Asia Live Event
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 ,KIX
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 ,HOY TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,CCM
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 ,Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 ,Thrill
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 ,tvN Movies Asia
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 ,TVB News Channel
-http://r.jdshipin.com/CkuBd
 #EXTINF:-1 ,BSTV
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
