@@ -1,5 +1,10 @@
 <table>
     <tr>
+        <td colspan="2">
+            <a href="https://github.com/lizongying/my-tv">内置直播源my-tv</a>
+        </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/o0HalfLife0o/TVBoxOSC">TV-box</a>
         </td>
