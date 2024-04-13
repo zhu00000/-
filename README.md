@@ -11,3 +11,7 @@
     <a href="https://github.com/liyijun0417/LeesTv">LeesTv</a>
     ：flutter开发的一个在线转播IPTV的app，支持电视和手机
 </h3>
+<h3>
+    <a href="https://github.com/o0HalfLife0o/TVBoxOSC">TVbox</a>
+    ：电视TV盒子，需自行配置
+</h3>
